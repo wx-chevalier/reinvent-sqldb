@@ -27,9 +27,7 @@ require (
 	github.com/twinj/uuid v0.1.0 // indirect
 	github.com/uber/jaeger-lib v1.5.0 // indirect
 	go.uber.org/zap v1.9.1
-	golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9 // indirect
-	golang.org/x/net v0.0.0-20181220203305-927f97764cc3 // indirect
-	golang.org/x/sys v0.0.0-20181221143128-b4a75ba826a6 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/genproto v0.0.0-20181221175505-bd9b4fb69e2f // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
 	gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2 // indirect
